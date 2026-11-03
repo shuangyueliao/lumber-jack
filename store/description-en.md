@@ -4,7 +4,7 @@
 
 Chop the giant tree, dodge the falling branches, and race the shrinking
 timer. Fast chops build a x2 combo and rare gold branches pay +5. One wrong
-side and you're done — how tall a score can you fell?
+side and it's over — how high can you score?
 
 ## Details
 
